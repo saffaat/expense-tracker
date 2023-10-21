@@ -1,0 +1,9 @@
+.not-found {
+    color: white;
+    text-align: center;
+}
+
+ul {
+    padding: 0;
+    list-style: none;
+}

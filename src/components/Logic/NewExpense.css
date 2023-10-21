@@ -1,0 +1,35 @@
+.form-container {
+    border: 2px solid white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    margin: 10px 150px;
+    padding: 5px 10px;
+    background-color: #223344
+}
+
+.form-card {
+    background-color: #a892ee;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
+}
+
+.new-expense-button {
+    font: inherit;
+    cursor: pointer;
+    border: 1px solid #40005d;
+    background-color: #40005d;
+    border-radius: 12px;
+    /* max-width: 95%; */
+    width: 30%;
+    height: 70%;
+    padding: 20px 30px;
+    color: white;
+    margin: 1rem 0;
+    font-size: medium;
+}
+
+.new-expense-button:hover {
+    background-color: #1f012e;
+}
